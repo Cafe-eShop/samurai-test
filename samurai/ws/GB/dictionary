@@ -1,0 +1,2004 @@
+{
+    "items": [
+        {
+            "candidate": "Mudness",
+            "reading": "Mudness"
+        },
+        {
+            "candidate": "Offroad",
+            "reading": "Offroad"
+        },
+        {
+            "candidate": "Car",
+            "reading": "Car"
+        },
+        {
+            "candidate": "Simulator",
+            "reading": "Simulator"
+        },
+        {
+            "candidate": "Runner",
+            "reading": "Runner"
+        },
+        {
+            "candidate": "Pick",
+            "reading": "Pick"
+        },
+        {
+            "candidate": "Race",
+            "reading": "Race"
+        },
+        {
+            "candidate": "3D",
+            "reading": "3D"
+        },
+        {
+            "candidate": "Thief",
+            "reading": "Thief"
+        },
+        {
+            "candidate": "Snatch",
+            "reading": "Snatch"
+        },
+        {
+            "candidate": "&",
+            "reading": "&"
+        },
+        {
+            "candidate": "Run",
+            "reading": "Run"
+        },
+        {
+            "candidate": "Cipheur",
+            "reading": "Cipheur"
+        },
+        {
+            "candidate": "Casual",
+            "reading": "Casual"
+        },
+        {
+            "candidate": "Sport",
+            "reading": "Sport"
+        },
+        {
+            "candidate": "Series:",
+            "reading": "Series:"
+        },
+        {
+            "candidate": "Badminton",
+            "reading": "Badminton"
+        },
+        {
+            "candidate": "Project",
+            "reading": "Project"
+        },
+        {
+            "candidate": "Zombie",
+            "reading": "Zombie"
+        },
+        {
+            "candidate": "Lost",
+            "reading": "Lost"
+        },
+        {
+            "candidate": "in",
+            "reading": "in"
+        },
+        {
+            "candidate": "Random:",
+            "reading": "Random:"
+        },
+        {
+            "candidate": "The",
+            "reading": "The"
+        },
+        {
+            "candidate": "Eternal",
+            "reading": "Eternal"
+        },
+        {
+            "candidate": "Die",
+            "reading": "Die"
+        },
+        {
+            "candidate": "Pirate",
+            "reading": "Pirate"
+        },
+        {
+            "candidate": "Anime",
+            "reading": "Anime"
+        },
+        {
+            "candidate": "Quest:",
+            "reading": "Quest:"
+        },
+        {
+            "candidate": "One",
+            "reading": "One"
+        },
+        {
+            "candidate": "Boys'",
+            "reading": "Boys'"
+        },
+        {
+            "candidate": "Journey,",
+            "reading": "Journey,"
+        },
+        {
+            "candidate": "A",
+            "reading": "A"
+        },
+        {
+            "candidate": "Piece",
+            "reading": "Piece"
+        },
+        {
+            "candidate": "of",
+            "reading": "of"
+        },
+        {
+            "candidate": "Island",
+            "reading": "Island"
+        },
+        {
+            "candidate": "Love",
+            "reading": "Love"
+        },
+        {
+            "candidate": "Ruffy",
+            "reading": "Ruffy"
+        },
+        {
+            "candidate": "and",
+            "reading": "and"
+        },
+        {
+            "candidate": "the",
+            "reading": "the"
+        },
+        {
+            "candidate": "Riverside",
+            "reading": "Riverside"
+        },
+        {
+            "candidate": "Garten",
+            "reading": "Garten"
+        },
+        {
+            "candidate": "Banban",
+            "reading": "Banban"
+        },
+        {
+            "candidate": "0",
+            "reading": "0"
+        },
+        {
+            "candidate": "Therapist",
+            "reading": "Therapist"
+        },
+        {
+            "candidate": "Extreme!",
+            "reading": "Extreme!"
+        },
+        {
+            "candidate": "2-Choice",
+            "reading": "2-Choice"
+        },
+        {
+            "candidate": "Flag",
+            "reading": "Flag"
+        },
+        {
+            "candidate": "Quiz",
+            "reading": "Quiz"
+        },
+        {
+            "candidate": "Superation",
+            "reading": "Superation"
+        },
+        {
+            "candidate": "Ramen!",
+            "reading": "Ramen!"
+        },
+        {
+            "candidate": "Road",
+            "reading": "Road"
+        },
+        {
+            "candidate": "to",
+            "reading": "to"
+        },
+        {
+            "candidate": "Mastery",
+            "reading": "Mastery"
+        },
+        {
+            "candidate": "Monster",
+            "reading": "Monster"
+        },
+        {
+            "candidate": "Train",
+            "reading": "Train"
+        },
+        {
+            "candidate": "2",
+            "reading": "2"
+        },
+        {
+            "candidate": "Bubble",
+            "reading": "Bubble"
+        },
+        {
+            "candidate": "Trouble:",
+            "reading": "Trouble:"
+        },
+        {
+            "candidate": "Adventures",
+            "reading": "Adventures"
+        },
+        {
+            "candidate": "Operator",
+            "reading": "Operator"
+        },
+        {
+            "candidate": "Soccer",
+            "reading": "Soccer"
+        },
+        {
+            "candidate": "Golf!",
+            "reading": "Golf!"
+        },
+        {
+            "candidate": "Jamjam",
+            "reading": "Jamjam"
+        },
+        {
+            "candidate": "CTHULOOT",
+            "reading": "CTHULOOT"
+        },
+        {
+            "candidate": "EGGCONSOLE",
+            "reading": "EGGCONSOLE"
+        },
+        {
+            "candidate": "HYDLIDE",
+            "reading": "HYDLIDE"
+        },
+        {
+            "candidate": "II",
+            "reading": "II"
+        },
+        {
+            "candidate": "MSX",
+            "reading": "MSX"
+        },
+        {
+            "candidate": "Bibelot:",
+            "reading": "Bibelot:"
+        },
+        {
+            "candidate": "Tiret",
+            "reading": "Tiret"
+        },
+        {
+            "candidate": "sur",
+            "reading": "sur"
+        },
+        {
+            "candidate": "Will",
+            "reading": "Will"
+        },
+        {
+            "candidate": "Arcade",
+            "reading": "Arcade"
+        },
+        {
+            "candidate": "Archives",
+            "reading": "Archives"
+        },
+        {
+            "candidate": "NEBULASRAY",
+            "reading": "NEBULASRAY"
+        },
+        {
+            "candidate": "Pinball",
+            "reading": "Pinball"
+        },
+        {
+            "candidate": "Spire",
+            "reading": "Spire"
+        },
+        {
+            "candidate": "Ghost",
+            "reading": "Ghost"
+        },
+        {
+            "candidate": "Room",
+            "reading": "Room"
+        },
+        {
+            "candidate": "Deep",
+            "reading": "Deep"
+        },
+        {
+            "candidate": "Nowhere",
+            "reading": "Nowhere"
+        },
+        {
+            "candidate": "Patrol",
+            "reading": "Patrol"
+        },
+        {
+            "candidate": "Kvark",
+            "reading": "Kvark"
+        },
+        {
+            "candidate": "Pancho's",
+            "reading": "Pancho's"
+        },
+        {
+            "candidate": "Mission",
+            "reading": "Mission"
+        },
+        {
+            "candidate": "Locomoto",
+            "reading": "Locomoto"
+        },
+        {
+            "candidate": "Escape",
+            "reading": "Escape"
+        },
+        {
+            "candidate": "game",
+            "reading": "game"
+        },
+        {
+            "candidate": "R00M04",
+            "reading": "R00M04"
+        },
+        {
+            "candidate": "Weirdo",
+            "reading": "Weirdo"
+        },
+        {
+            "candidate": "Cats",
+            "reading": "Cats"
+        },
+        {
+            "candidate": "Visiting",
+            "reading": "Visiting"
+        },
+        {
+            "candidate": "Fairy",
+            "reading": "Fairy"
+        },
+        {
+            "candidate": "Tales",
+            "reading": "Tales"
+        },
+        {
+            "candidate": "Dance-Off",
+            "reading": "Dance-Off"
+        },
+        {
+            "candidate": "-",
+            "reading": "-"
+        },
+        {
+            "candidate": "Las",
+            "reading": "Las"
+        },
+        {
+            "candidate": "Vegas",
+            "reading": "Vegas"
+        },
+        {
+            "candidate": "Epic",
+            "reading": "Epic"
+        },
+        {
+            "candidate": "Empire:",
+            "reading": "Empire:"
+        },
+        {
+            "candidate": "Tower",
+            "reading": "Tower"
+        },
+        {
+            "candidate": "Defense",
+            "reading": "Defense"
+        },
+        {
+            "candidate": "Retro",
+            "reading": "Retro"
+        },
+        {
+            "candidate": "Drive:",
+            "reading": "Drive:"
+        },
+        {
+            "candidate": "Revamped",
+            "reading": "Revamped"
+        },
+        {
+            "candidate": "Legends",
+            "reading": "Legends"
+        },
+        {
+            "candidate": "Aligned:",
+            "reading": "Aligned:"
+        },
+        {
+            "candidate": "Minis",
+            "reading": "Minis"
+        },
+        {
+            "candidate": "Conflict",
+            "reading": "Conflict"
+        },
+        {
+            "candidate": "TIEBREAK+",
+            "reading": "TIEBREAK+"
+        },
+        {
+            "candidate": "Ace",
+            "reading": "Ace"
+        },
+        {
+            "candidate": "Edition",
+            "reading": "Edition"
+        },
+        {
+            "candidate": "World",
+            "reading": "World"
+        },
+        {
+            "candidate": "At",
+            "reading": "At"
+        },
+        {
+            "candidate": "War:",
+            "reading": "War:"
+        },
+        {
+            "candidate": "Cobra",
+            "reading": "Cobra"
+        },
+        {
+            "candidate": "Forgotten",
+            "reading": "Forgotten"
+        },
+        {
+            "candidate": "Fields",
+            "reading": "Fields"
+        },
+        {
+            "candidate": "Theater",
+            "reading": "Theater"
+        },
+        {
+            "candidate": "Unrest",
+            "reading": "Unrest"
+        },
+        {
+            "candidate": "Digger",
+            "reading": "Digger"
+        },
+        {
+            "candidate": "Simulator:",
+            "reading": "Simulator:"
+        },
+        {
+            "candidate": "Gold",
+            "reading": "Gold"
+        },
+        {
+            "candidate": "Rush",
+            "reading": "Rush"
+        },
+        {
+            "candidate": "Hentai",
+            "reading": "Hentai"
+        },
+        {
+            "candidate": "Girls:",
+            "reading": "Girls:"
+        },
+        {
+            "candidate": "Maid",
+            "reading": "Maid"
+        },
+        {
+            "candidate": "Cafe",
+            "reading": "Cafe"
+        },
+        {
+            "candidate": "Ping",
+            "reading": "Ping"
+        },
+        {
+            "candidate": "Pong",
+            "reading": "Pong"
+        },
+        {
+            "candidate": "Up",
+            "reading": "Up"
+        },
+        {
+            "candidate": "Kaiju",
+            "reading": "Kaiju"
+        },
+        {
+            "candidate": "Big",
+            "reading": "Big"
+        },
+        {
+            "candidate": "Battel:",
+            "reading": "Battel:"
+        },
+        {
+            "candidate": "Fighto",
+            "reading": "Fighto"
+        },
+        {
+            "candidate": "Fantasy",
+            "reading": "Fantasy"
+        },
+        {
+            "candidate": "Not",
+            "reading": "Not"
+        },
+        {
+            "candidate": "Brain",
+            "reading": "Brain"
+        },
+        {
+            "candidate": "Challenge",
+            "reading": "Challenge"
+        },
+        {
+            "candidate": "Iwakura",
+            "reading": "Iwakura"
+        },
+        {
+            "candidate": "Aria",
+            "reading": "Aria"
+        },
+        {
+            "candidate": "How",
+            "reading": "How"
+        },
+        {
+            "candidate": "Escape:",
+            "reading": "Escape:"
+        },
+        {
+            "candidate": "Submarine",
+            "reading": "Submarine"
+        },
+        {
+            "candidate": "Cozy",
+            "reading": "Cozy"
+        },
+        {
+            "candidate": "Winter",
+            "reading": "Winter"
+        },
+        {
+            "candidate": "Mostroscopy",
+            "reading": "Mostroscopy"
+        },
+        {
+            "candidate": "Hogwarts",
+            "reading": "Hogwarts"
+        },
+        {
+            "candidate": "Legacy",
+            "reading": "Legacy"
+        },
+        {
+            "candidate": "SYNESTHESIA",
+            "reading": "SYNESTHESIA"
+        },
+        {
+            "candidate": "Korean",
+            "reading": "Korean"
+        },
+        {
+            "candidate": "Drone",
+            "reading": "Drone"
+        },
+        {
+            "candidate": "Flying",
+            "reading": "Flying"
+        },
+        {
+            "candidate": "Tour",
+            "reading": "Tour"
+        },
+        {
+            "candidate": "Bagatsurobong",
+            "reading": "Bagatsurobong"
+        },
+        {
+            "candidate": "Foto",
+            "reading": "Foto"
+        },
+        {
+            "candidate": "Boy:",
+            "reading": "Boy:"
+        },
+        {
+            "candidate": "Flashstar",
+            "reading": "Flashstar"
+        },
+        {
+            "candidate": "Welcome",
+            "reading": "Welcome"
+        },
+        {
+            "candidate": "Empyreum",
+            "reading": "Empyreum"
+        },
+        {
+            "candidate": "Tavern",
+            "reading": "Tavern"
+        },
+        {
+            "candidate": "Owner",
+            "reading": "Owner"
+        },
+        {
+            "candidate": "Genopanic",
+            "reading": "Genopanic"
+        },
+        {
+            "candidate": "Buk-ri",
+            "reading": "Buk-ri"
+        },
+        {
+            "candidate": "Dock",
+            "reading": "Dock"
+        },
+        {
+            "candidate": "Soya-do",
+            "reading": "Soya-do"
+        },
+        {
+            "candidate": "Hannah's",
+            "reading": "Hannah's"
+        },
+        {
+            "candidate": "Day",
+            "reading": "Day"
+        },
+        {
+            "candidate": "Ai",
+            "reading": "Ai"
+        },
+        {
+            "candidate": "Tycoon",
+            "reading": "Tycoon"
+        },
+        {
+            "candidate": "Dice",
+            "reading": "Dice"
+        },
+        {
+            "candidate": "People",
+            "reading": "People"
+        },
+        {
+            "candidate": "Sky",
+            "reading": "Sky"
+        },
+        {
+            "candidate": "Revolver",
+            "reading": "Revolver"
+        },
+        {
+            "candidate": "Operation:",
+            "reading": "Operation:"
+        },
+        {
+            "candidate": "Hostage",
+            "reading": "Hostage"
+        },
+        {
+            "candidate": "Rescue",
+            "reading": "Rescue"
+        },
+        {
+            "candidate": "Deokjeok-do",
+            "reading": "Deokjeok-do"
+        },
+        {
+            "candidate": "Don't",
+            "reading": "Don't"
+        },
+        {
+            "candidate": "Shoot",
+            "reading": "Shoot"
+        },
+        {
+            "candidate": "First!",
+            "reading": "First!"
+        },
+        {
+            "candidate": "Robinson",
+            "reading": "Robinson"
+        },
+        {
+            "candidate": "Alchemy",
+            "reading": "Alchemy"
+        },
+        {
+            "candidate": "Sexy",
+            "reading": "Sexy"
+        },
+        {
+            "candidate": "Girls",
+            "reading": "Girls"
+        },
+        {
+            "candidate": ":",
+            "reading": ":"
+        },
+        {
+            "candidate": "Splashes",
+            "reading": "Splashes"
+        },
+        {
+            "candidate": "Water",
+            "reading": "Water"
+        },
+        {
+            "candidate": "Fashion",
+            "reading": "Fashion"
+        },
+        {
+            "candidate": "Passion",
+            "reading": "Passion"
+        },
+        {
+            "candidate": "Puzzle",
+            "reading": "Puzzle"
+        },
+        {
+            "candidate": "Dungeon",
+            "reading": "Dungeon"
+        },
+        {
+            "candidate": "Love:",
+            "reading": "Love:"
+        },
+        {
+            "candidate": "Catch",
+            "reading": "Catch"
+        },
+        {
+            "candidate": "Monsters",
+            "reading": "Monsters"
+        },
+        {
+            "candidate": "Make",
+            "reading": "Make"
+        },
+        {
+            "candidate": "a",
+            "reading": "a"
+        },
+        {
+            "candidate": "Perfect",
+            "reading": "Perfect"
+        },
+        {
+            "candidate": "Boyfriend",
+            "reading": "Boyfriend"
+        },
+        {
+            "candidate": "Spot",
+            "reading": "Spot"
+        },
+        {
+            "candidate": "Difference",
+            "reading": "Difference"
+        },
+        {
+            "candidate": "Detective",
+            "reading": "Detective"
+        },
+        {
+            "candidate": "Sauna",
+            "reading": "Sauna"
+        },
+        {
+            "candidate": "DEAD",
+            "reading": "DEAD"
+        },
+        {
+            "candidate": "Our",
+            "reading": "Our"
+        },
+        {
+            "candidate": "Exciting",
+            "reading": "Exciting"
+        },
+        {
+            "candidate": "Summer",
+            "reading": "Summer"
+        },
+        {
+            "candidate": "Camp",
+            "reading": "Camp"
+        },
+        {
+            "candidate": "Super",
+            "reading": "Super"
+        },
+        {
+            "candidate": "Waifu",
+            "reading": "Waifu"
+        },
+        {
+            "candidate": "Ball",
+            "reading": "Ball"
+        },
+        {
+            "candidate": "Death",
+            "reading": "Death"
+        },
+        {
+            "candidate": "Park:",
+            "reading": "Park:"
+        },
+        {
+            "candidate": "Remaster",
+            "reading": "Remaster"
+        },
+        {
+            "candidate": "Schwarzschild",
+            "reading": "Schwarzschild"
+        },
+        {
+            "candidate": "PC-9801",
+            "reading": "PC-9801"
+        },
+        {
+            "candidate": "Apocalypse",
+            "reading": "Apocalypse"
+        },
+        {
+            "candidate": "Market",
+            "reading": "Market"
+        },
+        {
+            "candidate": "PUNK",
+            "reading": "PUNK"
+        },
+        {
+            "candidate": "SHOT",
+            "reading": "SHOT"
+        },
+        {
+            "candidate": "(Natsume's",
+            "reading": "(Natsume's"
+        },
+        {
+            "candidate": "Book",
+            "reading": "Book"
+        },
+        {
+            "candidate": "Friends:",
+            "reading": "Friends:"
+        },
+        {
+            "candidate": "Hazuki",
+            "reading": "Hazuki"
+        },
+        {
+            "candidate": "no",
+            "reading": "no"
+        },
+        {
+            "candidate": "Shirushi)",
+            "reading": "Shirushi)"
+        },
+        {
+            "candidate": "Yadal",
+            "reading": "Yadal"
+        },
+        {
+            "candidate": "Jinchon",
+            "reading": "Jinchon"
+        },
+        {
+            "candidate": "Beach",
+            "reading": "Beach"
+        },
+        {
+            "candidate": "Boarding",
+            "reading": "Boarding"
+        },
+        {
+            "candidate": "School",
+            "reading": "School"
+        },
+        {
+            "candidate": "Aery",
+            "reading": "Aery"
+        },
+        {
+            "candidate": "–",
+            "reading": "–"
+        },
+        {
+            "candidate": "Peace",
+            "reading": "Peace"
+        },
+        {
+            "candidate": "Mind",
+            "reading": "Mind"
+        },
+        {
+            "candidate": "3",
+            "reading": "3"
+        },
+        {
+            "candidate": "Plot",
+            "reading": "Plot"
+        },
+        {
+            "candidate": "Druid",
+            "reading": "Druid"
+        },
+        {
+            "candidate": "ABSURDIKA:",
+            "reading": "ABSURDIKA:"
+        },
+        {
+            "candidate": "Rebuild",
+            "reading": "Rebuild"
+        },
+        {
+            "candidate": "Fluffy",
+            "reading": "Fluffy"
+        },
+        {
+            "candidate": "Snakes",
+            "reading": "Snakes"
+        },
+        {
+            "candidate": "Cipher",
+            "reading": "Cipher"
+        },
+        {
+            "candidate": "Monk",
+            "reading": "Monk"
+        },
+        {
+            "candidate": "Nice",
+            "reading": "Nice"
+        },
+        {
+            "candidate": "for",
+            "reading": "for"
+        },
+        {
+            "candidate": "Fishing",
+            "reading": "Fishing"
+        },
+        {
+            "candidate": "Food",
+            "reading": "Food"
+        },
+        {
+            "candidate": "Truck",
+            "reading": "Truck"
+        },
+        {
+            "candidate": "Business",
+            "reading": "Business"
+        },
+        {
+            "candidate": "Bunny",
+            "reading": "Bunny"
+        },
+        {
+            "candidate": "Cubed",
+            "reading": "Cubed"
+        },
+        {
+            "candidate": "From",
+            "reading": "From"
+        },
+        {
+            "candidate": "Arcade:",
+            "reading": "Arcade:"
+        },
+        {
+            "candidate": "Starship",
+            "reading": "Starship"
+        },
+        {
+            "candidate": "Murder",
+            "reading": "Murder"
+        },
+        {
+            "candidate": "Squad:",
+            "reading": "Squad:"
+        },
+        {
+            "candidate": "Style",
+            "reading": "Style"
+        },
+        {
+            "candidate": "Wars",
+            "reading": "Wars"
+        },
+        {
+            "candidate": "Neon",
+            "reading": "Neon"
+        },
+        {
+            "candidate": "Roller",
+            "reading": "Roller"
+        },
+        {
+            "candidate": "Subway",
+            "reading": "Subway"
+        },
+        {
+            "candidate": "2025",
+            "reading": "2025"
+        },
+        {
+            "candidate": "City",
+            "reading": "City"
+        },
+        {
+            "candidate": "Staffer",
+            "reading": "Staffer"
+        },
+        {
+            "candidate": "Case:",
+            "reading": "Case:"
+        },
+        {
+            "candidate": "Supernatural",
+            "reading": "Supernatural"
+        },
+        {
+            "candidate": "Mystery",
+            "reading": "Mystery"
+        },
+        {
+            "candidate": "Adventure",
+            "reading": "Adventure"
+        },
+        {
+            "candidate": "Royal",
+            "reading": "Royal"
+        },
+        {
+            "candidate": "Romance",
+            "reading": "Romance"
+        },
+        {
+            "candidate": "Chronicles",
+            "reading": "Chronicles"
+        },
+        {
+            "candidate": "Wolf",
+            "reading": "Wolf"
+        },
+        {
+            "candidate": "Cookie",
+            "reading": "Cookie"
+        },
+        {
+            "candidate": "Clicker",
+            "reading": "Clicker"
+        },
+        {
+            "candidate": "Clash:",
+            "reading": "Clash:"
+        },
+        {
+            "candidate": "Robot",
+            "reading": "Robot"
+        },
+        {
+            "candidate": "Complete",
+            "reading": "Complete"
+        },
+        {
+            "candidate": "Jangbong-do",
+            "reading": "Jangbong-do"
+        },
+        {
+            "candidate": "There's",
+            "reading": "There's"
+        },
+        {
+            "candidate": "Gun",
+            "reading": "Gun"
+        },
+        {
+            "candidate": "Office",
+            "reading": "Office"
+        },
+        {
+            "candidate": "Han",
+            "reading": "Han"
+        },
+        {
+            "candidate": "River",
+            "reading": "River"
+        },
+        {
+            "candidate": "Skydiving",
+            "reading": "Skydiving"
+        },
+        {
+            "candidate": "Wingsuit",
+            "reading": "Wingsuit"
+        },
+        {
+            "candidate": "Flight",
+            "reading": "Flight"
+        },
+        {
+            "candidate": "Magic",
+            "reading": "Magic"
+        },
+        {
+            "candidate": "Valley",
+            "reading": "Valley"
+        },
+        {
+            "candidate": "Hike",
+            "reading": "Hike"
+        },
+        {
+            "candidate": "Hover",
+            "reading": "Hover"
+        },
+        {
+            "candidate": "Runners",
+            "reading": "Runners"
+        },
+        {
+            "candidate": "Meownth",
+            "reading": "Meownth"
+        },
+        {
+            "candidate": "Kulebra",
+            "reading": "Kulebra"
+        },
+        {
+            "candidate": "Souls",
+            "reading": "Souls"
+        },
+        {
+            "candidate": "Limbo",
+            "reading": "Limbo"
+        },
+        {
+            "candidate": "Urban",
+            "reading": "Urban"
+        },
+        {
+            "candidate": "Showdown",
+            "reading": "Showdown"
+        },
+        {
+            "candidate": "Laundry",
+            "reading": "Laundry"
+        },
+        {
+            "candidate": "Pet",
+            "reading": "Pet"
+        },
+        {
+            "candidate": "Pup",
+            "reading": "Pup"
+        },
+        {
+            "candidate": "at",
+            "reading": "at"
+        },
+        {
+            "candidate": "Party",
+            "reading": "Party"
+        },
+        {
+            "candidate": "Final",
+            "reading": "Final"
+        },
+        {
+            "candidate": "Zone",
+            "reading": "Zone"
+        },
+        {
+            "candidate": "Max",
+            "reading": "Max"
+        },
+        {
+            "candidate": "Cyber",
+            "reading": "Cyber"
+        },
+        {
+            "candidate": "Shooter",
+            "reading": "Shooter"
+        },
+        {
+            "candidate": "Romances:",
+            "reading": "Romances:"
+        },
+        {
+            "candidate": "Endless",
+            "reading": "Endless"
+        },
+        {
+            "candidate": "CE",
+            "reading": "CE"
+        },
+        {
+            "candidate": "Trash",
+            "reading": "Trash"
+        },
+        {
+            "candidate": "is",
+            "reading": "is"
+        },
+        {
+            "candidate": "Fun",
+            "reading": "Fun"
+        },
+        {
+            "candidate": "Garden",
+            "reading": "Garden"
+        },
+        {
+            "candidate": "Merging",
+            "reading": "Merging"
+        },
+        {
+            "candidate": "Numbers",
+            "reading": "Numbers"
+        },
+        {
+            "candidate": "Lover",
+            "reading": "Lover"
+        },
+        {
+            "candidate": "2:",
+            "reading": "2:"
+        },
+        {
+            "candidate": "Truth",
+            "reading": "Truth"
+        },
+        {
+            "candidate": "Pixel",
+            "reading": "Pixel"
+        },
+        {
+            "candidate": "Game",
+            "reading": "Game"
+        },
+        {
+            "candidate": "Maker",
+            "reading": "Maker"
+        },
+        {
+            "candidate": "Series",
+            "reading": "Series"
+        },
+        {
+            "candidate": "GIRI",
+            "reading": "GIRI"
+        },
+        {
+            "candidate": "Jump",
+            "reading": "Jump"
+        },
+        {
+            "candidate": "Extreme",
+            "reading": "Extreme"
+        },
+        {
+            "candidate": "Hwado-myeon",
+            "reading": "Hwado-myeon"
+        },
+        {
+            "candidate": "Dongmak",
+            "reading": "Dongmak"
+        },
+        {
+            "candidate": "Ilsan",
+            "reading": "Ilsan"
+        },
+        {
+            "candidate": "Lake",
+            "reading": "Lake"
+        },
+        {
+            "candidate": "Park",
+            "reading": "Park"
+        },
+        {
+            "candidate": "Donggeom-do",
+            "reading": "Donggeom-do"
+        },
+        {
+            "candidate": "SUPER",
+            "reading": "SUPER"
+        },
+        {
+            "candidate": "XEVIOUS",
+            "reading": "XEVIOUS"
+        },
+        {
+            "candidate": "Strings",
+            "reading": "Strings"
+        },
+        {
+            "candidate": "Theory",
+            "reading": "Theory"
+        },
+        {
+            "candidate": "Rune",
+            "reading": "Rune"
+        },
+        {
+            "candidate": "Worth",
+            "reading": "Worth"
+        },
+        {
+            "candidate": "Hidden",
+            "reading": "Hidden"
+        },
+        {
+            "candidate": "Kittens:",
+            "reading": "Kittens:"
+        },
+        {
+            "candidate": "Kingdom",
+            "reading": "Kingdom"
+        },
+        {
+            "candidate": "Tides",
+            "reading": "Tides"
+        },
+        {
+            "candidate": "Monday:",
+            "reading": "Monday:"
+        },
+        {
+            "candidate": "Dreams",
+            "reading": "Dreams"
+        },
+        {
+            "candidate": "Deadlines",
+            "reading": "Deadlines"
+        },
+        {
+            "candidate": "Bunker",
+            "reading": "Bunker"
+        },
+        {
+            "candidate": "22",
+            "reading": "22"
+        },
+        {
+            "candidate": "Trainlax:",
+            "reading": "Trainlax:"
+        },
+        {
+            "candidate": "Railway",
+            "reading": "Railway"
+        },
+        {
+            "candidate": "TIC-TAC:",
+            "reading": "TIC-TAC:"
+        },
+        {
+            "candidate": "Twelve",
+            "reading": "Twelve"
+        },
+        {
+            "candidate": "o'clock",
+            "reading": "o'clock"
+        },
+        {
+            "candidate": "Mirage:",
+            "reading": "Mirage:"
+        },
+        {
+            "candidate": "Ignis",
+            "reading": "Ignis"
+        },
+        {
+            "candidate": "Fatuus",
+            "reading": "Fatuus"
+        },
+        {
+            "candidate": "Ganja",
+            "reading": "Ganja"
+        },
+        {
+            "candidate": "Cartel:",
+            "reading": "Cartel:"
+        },
+        {
+            "candidate": "Warfare",
+            "reading": "Warfare"
+        },
+        {
+            "candidate": "HUNDRED",
+            "reading": "HUNDRED"
+        },
+        {
+            "candidate": "FIRES:",
+            "reading": "FIRES:"
+        },
+        {
+            "candidate": "rising",
+            "reading": "rising"
+        },
+        {
+            "candidate": "red",
+            "reading": "red"
+        },
+        {
+            "candidate": "star",
+            "reading": "star"
+        },
+        {
+            "candidate": "-Complete",
+            "reading": "-Complete"
+        },
+        {
+            "candidate": "Edition-",
+            "reading": "Edition-"
+        },
+        {
+            "candidate": "VIRTUAL",
+            "reading": "VIRTUAL"
+        },
+        {
+            "candidate": "GIRL",
+            "reading": "GIRL"
+        },
+        {
+            "candidate": "@",
+            "reading": "@"
+        },
+        {
+            "candidate": "WORLD’S",
+            "reading": "WORLD’S"
+        },
+        {
+            "candidate": "END",
+            "reading": "END"
+        },
+        {
+            "candidate": "Fuga:",
+            "reading": "Fuga:"
+        },
+        {
+            "candidate": "Melodies",
+            "reading": "Melodies"
+        },
+        {
+            "candidate": "Steel",
+            "reading": "Steel"
+        },
+        {
+            "candidate": "Postal",
+            "reading": "Postal"
+        },
+        {
+            "candidate": "Skating",
+            "reading": "Skating"
+        },
+        {
+            "candidate": "Rink",
+            "reading": "Rink"
+        },
+        {
+            "candidate": "Story",
+            "reading": "Story"
+        },
+        {
+            "candidate": "Countryball",
+            "reading": "Countryball"
+        },
+        {
+            "candidate": "ADVANCED",
+            "reading": "ADVANCED"
+        },
+        {
+            "candidate": "V.G.",
+            "reading": "V.G."
+        },
+        {
+            "candidate": "Saturn",
+            "reading": "Saturn"
+        },
+        {
+            "candidate": "Tribute",
+            "reading": "Tribute"
+        },
+        {
+            "candidate": "STEAM-HEART'S",
+            "reading": "STEAM-HEART'S"
+        },
+        {
+            "candidate": "Hypotheses",
+            "reading": "Hypotheses"
+        },
+        {
+            "candidate": "on",
+            "reading": "on"
+        },
+        {
+            "candidate": "Symmetry",
+            "reading": "Symmetry"
+        },
+        {
+            "candidate": "between",
+            "reading": "between"
+        },
+        {
+            "candidate": "Vision",
+            "reading": "Vision"
+        },
+        {
+            "candidate": "Hands",
+            "reading": "Hands"
+        },
+        {
+            "candidate": "Builder",
+            "reading": "Builder"
+        },
+        {
+            "candidate": "Cup",
+            "reading": "Cup"
+        },
+        {
+            "candidate": "2026",
+            "reading": "2026"
+        },
+        {
+            "candidate": "Cattle",
+            "reading": "Cattle"
+        },
+        {
+            "candidate": "Country",
+            "reading": "Country"
+        },
+        {
+            "candidate": "Dokyusei:",
+            "reading": "Dokyusei:"
+        },
+        {
+            "candidate": "Bangin'",
+            "reading": "Bangin'"
+        },
+        {
+            "candidate": "Home",
+            "reading": "Home"
+        },
+        {
+            "candidate": "Hotel",
+            "reading": "Hotel"
+        },
+        {
+            "candidate": "Rally",
+            "reading": "Rally"
+        },
+        {
+            "candidate": "Classics",
+            "reading": "Classics"
+        },
+        {
+            "candidate": "Duck",
+            "reading": "Duck"
+        },
+        {
+            "candidate": "Detective:",
+            "reading": "Detective:"
+        },
+        {
+            "candidate": "Glamping",
+            "reading": "Glamping"
+        },
+        {
+            "candidate": "ESCAPE",
+            "reading": "ESCAPE"
+        },
+        {
+            "candidate": "BACKROOMS:",
+            "reading": "BACKROOMS:"
+        },
+        {
+            "candidate": "DARKNESS",
+            "reading": "DARKNESS"
+        },
+        {
+            "candidate": "HORROR",
+            "reading": "HORROR"
+        },
+        {
+            "candidate": "Against",
+            "reading": "Against"
+        },
+        {
+            "candidate": "Storm",
+            "reading": "Storm"
+        },
+        {
+            "candidate": "Grove",
+            "reading": "Grove"
+        },
+        {
+            "candidate": "Squirrel",
+            "reading": "Squirrel"
+        },
+        {
+            "candidate": "Madness",
+            "reading": "Madness"
+        },
+        {
+            "candidate": "RPG:",
+            "reading": "RPG:"
+        },
+        {
+            "candidate": "Raid",
+            "reading": "Raid"
+        },
+        {
+            "candidate": "Ninja",
+            "reading": "Ninja"
+        },
+        {
+            "candidate": "Fight",
+            "reading": "Fight"
+        },
+        {
+            "candidate": "FANTASY",
+            "reading": "FANTASY"
+        },
+        {
+            "candidate": "LIFE",
+            "reading": "LIFE"
+        },
+        {
+            "candidate": "i:",
+            "reading": "i:"
+        },
+        {
+            "candidate": "Girl",
+            "reading": "Girl"
+        },
+        {
+            "candidate": "Who",
+            "reading": "Who"
+        },
+        {
+            "candidate": "Steals",
+            "reading": "Steals"
+        },
+        {
+            "candidate": "Time",
+            "reading": "Time"
+        },
+        {
+            "candidate": "Stasis",
+            "reading": "Stasis"
+        },
+        {
+            "candidate": "Gym",
+            "reading": "Gym"
+        },
+        {
+            "candidate": "Lifting",
+            "reading": "Lifting"
+        },
+        {
+            "candidate": "Hero",
+            "reading": "Hero"
+        },
+        {
+            "candidate": "Sprint",
+            "reading": "Sprint"
+        },
+        {
+            "candidate": "Survival",
+            "reading": "Survival"
+        },
+        {
+            "candidate": "Captain",
+            "reading": "Captain"
+        },
+        {
+            "candidate": "Blood",
+            "reading": "Blood"
+        },
+        {
+            "candidate": "Ship",
+            "reading": "Ship"
+        },
+        {
+            "candidate": "Graveyard",
+            "reading": "Graveyard"
+        },
+        {
+            "candidate": "Gnomes",
+            "reading": "Gnomes"
+        },
+        {
+            "candidate": "Knights",
+            "reading": "Knights"
+        },
+        {
+            "candidate": "Capybaras",
+            "reading": "Capybaras"
+        },
+        {
+            "candidate": "with",
+            "reading": "with"
+        },
+        {
+            "candidate": "Orange:",
+            "reading": "Orange:"
+        },
+        {
+            "candidate": "Collection",
+            "reading": "Collection"
+        },
+        {
+            "candidate": "Golf",
+            "reading": "Golf"
+        },
+        {
+            "candidate": "Tropical",
+            "reading": "Tropical"
+        },
+        {
+            "candidate": "CATO:",
+            "reading": "CATO:"
+        },
+        {
+            "candidate": "Buttered",
+            "reading": "Buttered"
+        },
+        {
+            "candidate": "Cat",
+            "reading": "Cat"
+        },
+        {
+            "candidate": "Hood",
+            "reading": "Hood"
+        },
+        {
+            "candidate": "Story:",
+            "reading": "Story:"
+        },
+        {
+            "candidate": "Kaito",
+            "reading": "Kaito"
+        },
+        {
+            "candidate": "Yamazaki",
+            "reading": "Yamazaki"
+        },
+        {
+            "candidate": "EA",
+            "reading": "EA"
+        },
+        {
+            "candidate": "SPORTS™",
+            "reading": "SPORTS™"
+        },
+        {
+            "candidate": "Madden",
+            "reading": "Madden"
+        },
+        {
+            "candidate": "NFL",
+            "reading": "NFL"
+        },
+        {
+            "candidate": "26",
+            "reading": "26"
+        },
+        {
+            "candidate": "Yasha:",
+            "reading": "Yasha:"
+        },
+        {
+            "candidate": "Demon",
+            "reading": "Demon"
+        },
+        {
+            "candidate": "Blade",
+            "reading": "Blade"
+        },
+        {
+            "candidate": "Date",
+            "reading": "Date"
+        },
+        {
+            "candidate": "Serial",
+            "reading": "Serial"
+        },
+        {
+            "candidate": "Killer:",
+            "reading": "Killer:"
+        },
+        {
+            "candidate": "from",
+            "reading": "from"
+        },
+        {
+            "candidate": "Horror",
+            "reading": "Horror"
+        },
+        {
+            "candidate": "Show",
+            "reading": "Show"
+        },
+        {
+            "candidate": "Nanostorm",
+            "reading": "Nanostorm"
+        },
+        {
+            "candidate": "Wings",
+            "reading": "Wings"
+        },
+        {
+            "candidate": "EARTH",
+            "reading": "EARTH"
+        },
+        {
+            "candidate": "SAVER",
+            "reading": "SAVER"
+        },
+        {
+            "candidate": "Aureole",
+            "reading": "Aureole"
+        },
+        {
+            "candidate": "Hope",
+            "reading": "Hope"
+        },
+        {
+            "candidate": "ANNIE:Last",
+            "reading": "ANNIE:Last"
+        },
+        {
+            "candidate": "Kitten",
+            "reading": "Kitten"
+        },
+        {
+            "candidate": "Her",
+            "reading": "Her"
+        },
+        {
+            "candidate": "Box",
+            "reading": "Box"
+        },
+        {
+            "candidate": "Nico",
+            "reading": "Nico"
+        },
+        {
+            "candidate": "Saves",
+            "reading": "Saves"
+        },
+        {
+            "candidate": "State",
+            "reading": "State"
+        },
+        {
+            "candidate": "CRYKEN",
+            "reading": "CRYKEN"
+        },
+        {
+            "candidate": "part2",
+            "reading": "part2"
+        },
+        {
+            "candidate": "PINBALL",
+            "reading": "PINBALL"
+        },
+        {
+            "candidate": "ACTION",
+            "reading": "ACTION"
+        },
+        {
+            "candidate": "Kill",
+            "reading": "Kill"
+        },
+        {
+            "candidate": "Emoji",
+            "reading": "Emoji"
+        },
+        {
+            "candidate": "MOMIBOSU",
+            "reading": "MOMIBOSU"
+        },
+        {
+            "candidate": "Photo",
+            "reading": "Photo"
+        },
+        {
+            "candidate": "Transformer",
+            "reading": "Transformer"
+        },
+        {
+            "candidate": "Kindaichi",
+            "reading": "Kindaichi"
+        },
+        {
+            "candidate": "Honjin",
+            "reading": "Honjin"
+        },
+        {
+            "candidate": "Murders",
+            "reading": "Murders"
+        },
+        {
+            "candidate": "Beautiful",
+            "reading": "Beautiful"
+        },
+        {
+            "candidate": "Puzzles",
+            "reading": "Puzzles"
+        },
+        {
+            "candidate": "Rainy",
+            "reading": "Rainy"
+        },
+        {
+            "candidate": "Days",
+            "reading": "Days"
+        },
+        {
+            "candidate": "MIRAI",
+            "reading": "MIRAI"
+        },
+        {
+            "candidate": "PC-8801mkIISR",
+            "reading": "PC-8801mkIISR"
+        },
+        {
+            "candidate": "Nostalgic",
+            "reading": "Nostalgic"
+        },
+        {
+            "candidate": "Mario",
+            "reading": "Mario"
+        },
+        {
+            "candidate": "Jamboree",
+            "reading": "Jamboree"
+        },
+        {
+            "candidate": "Nintendo",
+            "reading": "Nintendo"
+        },
+        {
+            "candidate": "Switch",
+            "reading": "Switch"
+        },
+        {
+            "candidate": "+",
+            "reading": "+"
+        }
+    ]
+}

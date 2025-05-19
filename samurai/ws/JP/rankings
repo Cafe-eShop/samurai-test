@@ -1,0 +1,88 @@
+{
+    "rankings": {
+        "ranking": [
+            {
+                "name": "最近売れているソフト",
+                "filters": {
+                    "filter": [
+                        {
+                            "name": "Wii Uダウンロードソフト",
+                            "id": 2
+                        },
+                        {
+                            "name": "バーチャルコンソール",
+                            "id": 3
+                        }
+                    ]
+                },
+                "id": 1,
+                "type": "title"
+            },
+            {
+                "name": "これまでに売れたソフト",
+                "filters": {
+                    "filter": [
+                        {
+                            "name": "Wii Uダウンロードソフト",
+                            "id": 2
+                        },
+                        {
+                            "name": "バーチャルコンソール",
+                            "id": 3
+                        }
+                    ]
+                },
+                "id": 2,
+                "type": "title"
+            },
+            {
+                "name": "最近のおすすめソフト",
+                "filters": {
+                    "filter": [
+                        {
+                            "name": "Wii Uディスクソフト",
+                            "id": 1
+                        },
+                        {
+                            "name": "Wii Uダウンロードソフト",
+                            "id": 2
+                        },
+                        {
+                            "name": "バーチャルコンソール",
+                            "id": 3
+                        }
+                    ]
+                },
+                "id": 3,
+                "type": "title"
+            },
+            {
+                "name": "これまでのおすすめソフト",
+                "filters": {
+                    "filter": [
+                        {
+                            "name": "Wii Uディスクソフト",
+                            "id": 1
+                        },
+                        {
+                            "name": "Wii Uダウンロードソフト",
+                            "id": 2
+                        },
+                        {
+                            "name": "バーチャルコンソール",
+                            "id": 3
+                        }
+                    ]
+                },
+                "id": 4,
+                "type": "title"
+            },
+            {
+                "name": "最近よく見られている映像",
+                "id": 5,
+                "type": "movie"
+            }
+        ],
+        "length": 5
+    }
+}
